@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Anya-design, dramaturg and narrative designer!
+- 👋 Hi, I’m @Anya-design, game writer and narrative designer!
 - 👀 I’m interested in videogames and storytelling
-- 🌱 I’m currently learning... a lot of things, actually. Game design as a whole, Scratch and Unity, and how to build my portfolio at its very best.
+- 🌱 I’m currently learning... a lot of things, actually. Game design as a whole, but specifically narrative design, and how to build my portfolio at its very best.
 - 📫 How to reach me: please send me a message on LinkedIn, I check it every day :smile: https://www.linkedin.com/in/anastasiarizzo/
 
 <!---
